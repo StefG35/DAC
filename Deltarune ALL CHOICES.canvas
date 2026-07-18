@@ -98,7 +98,6 @@
 		{"id":"f51e1d5f3b27fb4f","type":"text","text":"Dialogo extra dove Lancer dice di avervi perdonato per conto dei suoi sudditi","x":120,"y":5360,"width":190,"height":143,"color":"#832525"},
 		{"id":"05b9e2fd65c7b0cd","type":"text","text":"Interazione con l'Hacker","x":331,"y":6706,"width":250,"height":60},
 		{"id":"911de61546fb7776","type":"text","text":"Interazione con l'Hacker (NON IN WEIRD ROUTE)","x":694,"y":8408,"width":250,"height":60},
-		{"id":"fd7573719e3c7112","type":"text","text":"Sconfiggi Spamton NEO solo con Kris e ottieni CristallOmbra e SciarPazzo","x":-720,"y":9200,"width":219,"height":111,"color":"#5c0000"},
 		{"id":"b0542a2fc338fe9a","type":"text","text":"Nubert non c'è, Sweet Cap'n Cakes hanno solo gli scatoloni.\nIl Re ti giudica male","x":80,"y":9888,"width":209,"height":174},
 		{"id":"0e9ea08b9cd63534","type":"text","text":"Esplorazione del mondo della luce","x":-292,"y":10275,"width":250,"height":60},
 		{"id":"df3585e8e409860d","type":"text","text":"Fai evadere la banda dal naso bagnato","x":80,"y":10335,"width":250,"height":60},
@@ -111,7 +110,11 @@
 		{"id":"15000668b6fbb1c7","type":"text","text":"Traumatizzi Noelle","x":-993,"y":10800,"width":213,"height":60,"color":"#5c0000"},
 		{"id":"1cafa9395589d195","type":"text","text":"Noelle si  accorge che Kris ha il suo orologio","x":-1493,"y":10900,"width":250,"height":55,"color":"#ff8080"},
 		{"id":"0256be393e5b4e93","type":"text","text":"Fine Capitolo 2","x":-292,"y":11220,"width":250,"height":50},
-		{"id":"bb322e8c0fce4689","x":503,"y":8265,"width":277,"height":85,"color":"6","type":"text","text":"Mantieni il ruolo di Giudice di Letti esaminando anche quello di Noelle"}
+		{"id":"bb322e8c0fce4689","type":"text","text":"Mantieni il ruolo di Giudice di Letti esaminando anche quello di Noelle","x":503,"y":8265,"width":277,"height":85,"color":"6"},
+		{"id":"a2058058829ab3b1","x":-628,"y":10599,"width":248,"height":121,"type":"text","text":"Parli con il fantasma che in Undertale è Mettaton e ti chiede qualcosa per intrattenersi"},
+		{"id":"b83ec5569bc05a90","x":-369,"y":3620,"width":250,"height":60,"color":"#b4b54f","type":"text","text":"Parli con Onionsan"},
+		{"id":"31a4a8239e057d0f","x":-918,"y":10335,"width":250,"height":60,"color":"#b4b54f","type":"text","text":"Parli con Onionsan"},
+		{"id":"fd7573719e3c7112","type":"text","text":"Sconfiggi Spamton NEO solo con Kris e ottieni CristallOmbra e SciarPazzo","x":-668,"y":9147,"width":219,"height":111,"color":"#5c0000"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -264,6 +267,10 @@
 		{"id":"f46b17d768235d1a","fromNode":"15000668b6fbb1c7","fromSide":"left","toNode":"1cafa9395589d195","toSide":"right","color":"#5c0000"},
 		{"id":"cdfe795ea4de91ab","fromNode":"c3e2289c9138af5d","fromSide":"bottom","toNode":"1cafa9395589d195","toSide":"top","color":"#ff8080"},
 		{"id":"2b3806575bb3e426","fromNode":"fdc0cffe12d068eb","fromSide":"right","toNode":"bb322e8c0fce4689","toSide":"left"},
-		{"id":"0a006fdfa80bed42","fromNode":"63ba596051c7008a","fromSide":"bottom","toNode":"bb322e8c0fce4689","toSide":"top","color":"6"}
+		{"id":"0a006fdfa80bed42","fromNode":"63ba596051c7008a","fromSide":"bottom","toNode":"bb322e8c0fce4689","toSide":"top","color":"6"},
+		{"id":"d9cb5923abdf95b3","fromNode":"0e9ea08b9cd63534","fromSide":"left","toNode":"a2058058829ab3b1","toSide":"right"},
+		{"id":"1c1584f139345b08","fromNode":"f57e19345cc96a1c","fromSide":"left","toNode":"b83ec5569bc05a90","toSide":"right"},
+		{"id":"95da588ac9d97869","fromNode":"b83ec5569bc05a90","fromSide":"bottom","toNode":"31a4a8239e057d0f","toSide":"top","color":"#b4b54f"},
+		{"id":"3a929b9b761f0c07","fromNode":"0e9ea08b9cd63534","fromSide":"left","toNode":"31a4a8239e057d0f","toSide":"right"}
 	]
 }
