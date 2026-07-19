@@ -116,7 +116,6 @@
 		{"id":"6d068a45844c4437","type":"text","text":"Sans rimanda la cosa del fratello","x":1059,"y":10611,"width":250,"height":60,"color":"#214391"},
 		{"id":"0256be393e5b4e93","type":"text","text":"Fine Capitolo 2","x":-293,"y":11457,"width":250,"height":50},
 		{"id":"6bf92bb6c1ac76f4","type":"text","text":"Inizio Capitolo 3","x":-293,"y":11738,"width":250,"height":60},
-		{"id":"cfe6acc9f045ab62","type":"text","text":"Scelta del nome","x":-293,"y":11917,"width":250,"height":60},
 		{"id":"7c11a561ff3d6da9","type":"text","text":"Finisci il tabellone 1 con il rango A, B o C","x":-621,"y":12137,"width":250,"height":60},
 		{"id":"71449efc1ad3323e","type":"text","text":"Finisci il tabellone 1 con il rango S, T o Z","x":-43,"y":12137,"width":250,"height":60},
 		{"id":"939ada26e52da749","type":"text","text":"Stellovago appare","x":-901,"y":11887,"width":250,"height":60,"color":"3"},
@@ -169,9 +168,10 @@
 		{"id":"6f79ba6f1b7c07c6","type":"text","text":"La fonte viene sigillata","x":-79,"y":9700,"width":144,"height":55},
 		{"id":"a28fd6f231091ac6","type":"text","text":"Route con tutte le reclute principali","x":118,"y":9755,"width":250,"height":60},
 		{"id":"9b956ead919533f2","type":"text","text":"Route senza reclute","x":-382,"y":9755,"width":250,"height":60},
-		{"id":"b55355d538ad53de","x":-153,"y":9580,"width":292,"height":60,"color":"4","type":"text","text":"Punch-Out contro Regina usando il PestAggeggio"},
+		{"id":"b55355d538ad53de","type":"text","text":"Punch-Out contro Regina usando il PestAggeggio","x":-153,"y":9580,"width":292,"height":60,"color":"4"},
 		{"id":"b5ff068352f6f72a","type":"text","text":"Ritorno a Città Castello (facoltativo)","x":-132,"y":9937,"width":250,"height":60},
-		{"id":"c1334c79d9c88d1c","x":95,"y":11996,"width":265,"height":84,"color":"4","type":"text","text":"Quiz dove ti viene chiesto cosa è stato modificato dalla macchina del Capitolo 1"}
+		{"id":"c1334c79d9c88d1c","type":"text","text":"Quiz dove ti viene chiesto cosa è stato modificato dalla macchina del Capitolo 1","x":95,"y":11996,"width":265,"height":84,"color":"4"},
+		{"id":"cfe6acc9f045ab62","type":"text","text":"Scelta del nome e Tabellone 1","x":-304,"y":11917,"width":273,"height":50}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
