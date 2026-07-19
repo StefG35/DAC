@@ -50,7 +50,6 @@
 		{"id":"141e333e03465316","type":"text","text":"Combattimenti senza violenza","x":-287,"y":2660,"width":250,"height":60},
 		{"id":"56499e32e3bafd52","type":"text","text":"Combattimenti usando la violenza","x":-36,"y":2660,"width":250,"height":60},
 		{"id":"4e6eb26781494e9f","type":"text","text":"Prima del RE","x":-113,"y":2600,"width":152,"height":60},
-		{"id":"a79eee5c76a4c81d","type":"text","text":"Ottieni l'uovo","x":-470,"y":1540,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b6160062055f54b3","type":"text","text":"STELLOVAGO SI UNISCE ALLA SQUADRA!!","x":-1110,"y":5720,"width":250,"height":60,"color":"3"},
 		{"id":"4475f45e84156d31","type":"text","text":"Incontri Stellovago","x":-1120,"y":1400,"width":250,"height":60,"color":"3"},
 		{"id":"095e8c7cf6745096","type":"text","text":"Getti via il manuale","x":560,"y":1140,"width":197,"height":60,"color":"2"},
@@ -166,7 +165,9 @@
 		{"id":"61802e613f7adff8","type":"text","text":"Ralsei sa che non è una buona idea andare al festival con Noelle","x":120,"y":13420,"width":275,"height":100,"color":"#5c0000"},
 		{"id":"e7ee37f6bfed2212","type":"text","text":"Stellovago si unisce alla Troppia di Elnina e Lanino","x":-922,"y":13720,"width":250,"height":60,"color":"3"},
 		{"id":"a70af4d2466d5abd","type":"text","text":"Battuta che fa più ridere in inglese (interagendo col covone di paglia dopo il minigame del Wild West)","x":-1120,"y":13900,"width":283,"height":133},
-		{"id":"939ada26e52da749","x":-900,"y":11650,"width":250,"height":60,"color":"3","type":"text","text":"Stellovago appare"}
+		{"id":"939ada26e52da749","type":"text","text":"Stellovago appare","x":-900,"y":11650,"width":250,"height":60,"color":"3"},
+		{"id":"a79eee5c76a4c81d","type":"text","text":"Ottieni l'uovo","x":-470,"y":1540,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"b1ae88c9dc961db7","type":"text","text":"Ottieni l'uovo","x":120,"y":13660,"width":250,"height":60,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -393,6 +394,7 @@
 		{"id":"2e5cdfcb2264c377","fromNode":"b66702a941388676","fromSide":"bottom","toNode":"d9010b8af0599937","toSide":"top","color":"#5c0000"},
 		{"id":"f552769635bc87b8","fromNode":"6bf92bb6c1ac76f4","fromSide":"left","toNode":"939ada26e52da749","toSide":"right"},
 		{"id":"7c7b96d1af6e3249","fromNode":"4475f45e84156d31","fromSide":"bottom","toNode":"939ada26e52da749","toSide":"top","color":"3"},
-		{"id":"89d2777a6141d21e","fromNode":"939ada26e52da749","fromSide":"bottom","toNode":"e7ee37f6bfed2212","toSide":"top","color":"3"}
+		{"id":"89d2777a6141d21e","fromNode":"939ada26e52da749","fromSide":"bottom","toNode":"e7ee37f6bfed2212","toSide":"top","color":"3"},
+		{"id":"798395388581c92d","fromNode":"655cd64357d1e14e","fromSide":"right","toNode":"b1ae88c9dc961db7","toSide":"left"}
 	]
 }
