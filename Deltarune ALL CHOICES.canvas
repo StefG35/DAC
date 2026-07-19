@@ -114,15 +114,19 @@
 		{"id":"df3585e8e409860d","type":"text","text":"Fai evadere la banda dal naso bagnato","x":60,"y":10502,"width":250,"height":60},
 		{"id":"c64343f3452f8ffc","type":"text","text":"Ottieni i cioccolatini da Undyne","x":63,"y":10690,"width":250,"height":60},
 		{"id":"cb2694ce906b484a","type":"text","text":"Dai i cioccolatini ad Alphys","x":415,"y":10750,"width":250,"height":60,"color":"#743b07"},
-		{"id":"4b8387fe21d1505a","x":163,"y":10372,"width":267,"height":88,"type":"text","text":"Vai al rifugio facendo scappare Draghy e Monster Teen"},
-		{"id":"6e551c717eec30dc","x":520,"y":10459,"width":250,"height":60,"type":"text","text":"Si nascondono a casa loro"},
-		{"id":"7b5af73bce388fbf","x":-1255,"y":10708,"width":200,"height":85,"color":"#5c0000","type":"text","text":"Noelle si chiede perché continuiamo a venire in ospedale"},
+		{"id":"4b8387fe21d1505a","type":"text","text":"Vai al rifugio facendo scappare Draghy e Monster Teen","x":163,"y":10372,"width":267,"height":88},
+		{"id":"6e551c717eec30dc","type":"text","text":"Si nascondono a casa loro","x":520,"y":10459,"width":250,"height":60},
+		{"id":"7b5af73bce388fbf","type":"text","text":"Noelle si chiede perché continuiamo a venire in ospedale","x":-1255,"y":10708,"width":200,"height":85,"color":"#5c0000"},
 		{"id":"cae1e89e5955f364","type":"text","text":"Visita ad Asgore per ottenere il bouquet di fiori","x":700,"y":3590,"width":250,"height":60},
 		{"id":"ef8b0ba970c05fa5","type":"text","text":"Regali il bouquet a Toriel","x":1040,"y":3675,"width":250,"height":60},
-		{"id":"944a336cf6966980","x":700,"y":3880,"width":250,"height":60,"color":"#214391","type":"text","text":"Incontri Sans che ti \"invita\" a badare a suo fratello"},
-		{"id":"6d068a45844c4437","x":1060,"y":10374,"width":250,"height":60,"color":"#214391","type":"text","text":"Sans rimanda la cosa del fratello"},
-		{"id":"81c6d4f895b83e1a","x":1040,"y":3735,"width":250,"height":85,"type":"text","text":"*il bouquet, se dato a Toriel, modifica il dialogo del cestino del capitolo 2?*"},
-		{"id":"33a495975209579d","x":1353,"y":3573,"width":250,"height":60,"color":"#00ffbf","type":"text","text":"Vai da Alphys a farti spiegare perché mette fuori il latte"}
+		{"id":"944a336cf6966980","type":"text","text":"Incontri Sans che ti \"invita\" a badare a suo fratello","x":700,"y":3880,"width":250,"height":60,"color":"#214391"},
+		{"id":"6d068a45844c4437","type":"text","text":"Sans rimanda la cosa del fratello","x":1060,"y":10374,"width":250,"height":60,"color":"#214391"},
+		{"id":"81c6d4f895b83e1a","type":"text","text":"*il bouquet, se dato a Toriel, modifica il dialogo del cestino del capitolo 2?*","x":1040,"y":3735,"width":250,"height":85},
+		{"id":"33a495975209579d","type":"text","text":"Vai da Alphys a farti spiegare perché mette fuori il latte","x":1353,"y":3573,"width":250,"height":60,"color":"#00ffbf"},
+		{"id":"73148a6514c5bb9c","type":"text","text":"Ottieni la torta rotta","x":-710,"y":1515,"width":194,"height":51},
+		{"id":"d9227d6f910c49f5","type":"text","text":"Ripari la torta facendola diventare TROTTORTA","x":-1280,"y":1650,"width":250,"height":60},
+		{"id":"01e18475ce5c64a9","type":"text","text":"Restituisci la torta a Trottolacciuolo ricevendo la Giratorta","x":-1680,"y":1945,"width":254,"height":85,"color":"#ff6bf3"},
+		{"id":"4291783c1a0d03bc","type":"text","text":"Trottolacciulo ti fa sapere che oggi è il compleanno di Trifoglia","x":-1363,"y":3219,"width":243,"height":96,"color":"#ff6bf3"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -287,6 +291,11 @@
 		{"id":"4f4ed85c85feb22f","fromNode":"f57e19345cc96a1c","fromSide":"right","toNode":"944a336cf6966980","toSide":"left"},
 		{"id":"ededcc4c9deaeae1","fromNode":"944a336cf6966980","fromSide":"bottom","toNode":"6d068a45844c4437","toSide":"top","color":"#214391"},
 		{"id":"d261e3eaf1c165e6","fromNode":"0e9ea08b9cd63534","fromSide":"right","toNode":"6d068a45844c4437","toSide":"left"},
-		{"id":"074acde04c3c349c","fromNode":"f57e19345cc96a1c","fromSide":"right","toNode":"33a495975209579d","toSide":"left"}
+		{"id":"074acde04c3c349c","fromNode":"f57e19345cc96a1c","fromSide":"right","toNode":"33a495975209579d","toSide":"left"},
+		{"id":"6555c315bd109447","fromNode":"a0eb5e6e8733f945","fromSide":"left","toNode":"73148a6514c5bb9c","toSide":"right"},
+		{"id":"c952a9cf060fc831","fromNode":"73148a6514c5bb9c","fromSide":"left","toNode":"d9227d6f910c49f5","toSide":"right"},
+		{"id":"814ecd80e407939a","fromNode":"d9227d6f910c49f5","fromSide":"left","toNode":"01e18475ce5c64a9","toSide":"right"},
+		{"id":"51e6177d999383ee","fromNode":"90841148ad447226","fromSide":"left","toNode":"4291783c1a0d03bc","toSide":"right"},
+		{"id":"fb48060b8512d712","fromNode":"01e18475ce5c64a9","fromSide":"bottom","toNode":"4291783c1a0d03bc","toSide":"top","color":"#ff6bf3"}
 	]
 }
