@@ -167,7 +167,8 @@
 		{"id":"a70af4d2466d5abd","type":"text","text":"Battuta che fa più ridere in inglese (interagendo col covone di paglia dopo il minigame del Wild West)","x":-1120,"y":13900,"width":283,"height":133},
 		{"id":"939ada26e52da749","type":"text","text":"Stellovago appare","x":-900,"y":11650,"width":250,"height":60,"color":"3"},
 		{"id":"a79eee5c76a4c81d","type":"text","text":"Ottieni l'uovo","x":-470,"y":1540,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"b1ae88c9dc961db7","type":"text","text":"Ottieni l'uovo","x":120,"y":13660,"width":250,"height":60,"color":"#ffffff"}
+		{"id":"b1ae88c9dc961db7","type":"text","text":"Ottieni l'uovo","x":120,"y":13660,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"306aa764278407b2","x":392,"y":11626,"width":248,"height":134,"type":"text","text":"La CenaTV per qualche motivo ha descrizioni diverse per ogni slot di salvataggio"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
