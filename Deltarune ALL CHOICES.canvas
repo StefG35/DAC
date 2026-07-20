@@ -125,11 +125,7 @@
 		{"id":"e5246a5ab248868b","type":"text","text":"ERAM sa della Weird Route","x":716,"y":15166,"width":160,"height":68,"color":"#5c0000"},
 		{"id":"b66702a941388676","type":"text","text":"Rispondi **Ovvio. Giocare è divertente** a Susie","x":981,"y":15234,"width":235,"height":96,"color":"#5c0000"},
 		{"id":"d9010b8af0599937","type":"text","text":"Kris suda freddo quando Susie chiede se vuole finire come Berdly","x":981,"y":15385,"width":235,"height":96,"color":"#5c0000"},
-		{"id":"d478ef47585ecde5","type":"text","text":"Perdi lo scontro","x":-699,"y":15236,"width":250,"height":109},
 		{"id":"a51d085185770796","type":"text","text":"Ritorno alla Green Room","x":-272,"y":14725,"width":250,"height":60},
-		{"id":"030df4b7de76d934","type":"text","text":"Battaglia contro il Cavaliere Ruggente","x":-270,"y":15038,"width":250,"height":60},
-		{"id":"78912ee9b796da17","type":"text","text":"Fine Capitolo 3","x":-270,"y":15545,"width":250,"height":60},
-		{"id":"4e2dafd062ea1da0","type":"text","text":"Perdi lo scontro ma almeno hai il CristallOmbra e la ScheggiaNera","x":101,"y":15246,"width":260,"height":99},
 		{"id":"c140cb2f0663cfba","type":"text","text":"Giochi al gioco originale","x":223,"y":14845,"width":127,"height":106},
 		{"id":"ea1bf9e10715f9c9","type":"text","text":"Ottieni il pipis","x":-1893,"y":14284,"width":250,"height":60},
 		{"id":"da056ec71ef5f15d","type":"text","text":"Stanza segreta","x":-1768,"y":13914,"width":250,"height":60},
@@ -172,7 +168,13 @@
 		{"id":"31a4a8239e057d0f","type":"text","text":"Parli con Onionsan","x":-897,"y":10580,"width":250,"height":60,"color":"#b4b54f"},
 		{"id":"56abbcad16215805","type":"text","text":"Visiti Rudy in ospedale","x":-759,"y":10654,"width":229,"height":51},
 		{"id":"a2058058829ab3b1","type":"text","text":"Parli con il fantasma che in Undertale è Mettaton e ti chiede qualcosa per intrattenersi","x":-607,"y":10844,"width":248,"height":121},
-		{"id":"15000668b6fbb1c7","type":"text","text":"Traumatizzi Noelle","x":-972,"y":11045,"width":213,"height":60,"color":"#5c0000"}
+		{"id":"15000668b6fbb1c7","type":"text","text":"Traumatizzi Noelle","x":-972,"y":11045,"width":213,"height":60,"color":"#5c0000"},
+		{"id":"5e43e4b95c583298","x":-272,"y":14868,"width":250,"height":60,"type":"text","text":"Scontro contro Tenna"},
+		{"id":"d478ef47585ecde5","type":"text","text":"Perdi lo scontro","x":-701,"y":15243,"width":250,"height":109},
+		{"id":"030df4b7de76d934","type":"text","text":"Battaglia contro il Cavaliere Ruggente","x":-272,"y":15045,"width":250,"height":60},
+		{"id":"78912ee9b796da17","type":"text","text":"Fine Capitolo 3","x":-272,"y":15552,"width":250,"height":60},
+		{"id":"4e2dafd062ea1da0","type":"text","text":"Perdi lo scontro ma almeno hai il CristallOmbra e la ScheggiaNera","x":99,"y":15253,"width":260,"height":99},
+		{"id":"70579d086ad3efa1","x":-701,"y":14985,"width":250,"height":60,"type":"text","text":"Scommessa del JOLLY"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -385,7 +387,6 @@
 		{"id":"aae77799ecbb825a","fromNode":"a51d085185770796","fromSide":"right","toNode":"c140cb2f0663cfba","toSide":"left"},
 		{"id":"221054f89f94c85f","fromNode":"c140cb2f0663cfba","fromSide":"right","toNode":"a1e9da77d99abd19","toSide":"left"},
 		{"id":"218bb51c04e440db","fromNode":"5edb32e756a8a99e","fromSide":"bottom","toNode":"c140cb2f0663cfba","toSide":"top","color":"#a8e5ff"},
-		{"id":"ea5eb235174822c4","fromNode":"a51d085185770796","fromSide":"bottom","toNode":"030df4b7de76d934","toSide":"top"},
 		{"id":"e5b9dcf47b914f6c","fromNode":"030df4b7de76d934","fromSide":"bottom","toNode":"d478ef47585ecde5","toSide":"top"},
 		{"id":"2dc72883540e1864","fromNode":"030df4b7de76d934","fromSide":"bottom","toNode":"4e2dafd062ea1da0","toSide":"top"},
 		{"id":"032725983307ae87","fromNode":"655cd64357d1e14e","fromSide":"left","toNode":"e7ee37f6bfed2212","toSide":"right"},
@@ -403,6 +404,10 @@
 		{"id":"2ab3bbbd5538cfff","fromNode":"b55355d538ad53de","fromSide":"bottom","toNode":"6f79ba6f1b7c07c6","toSide":"top"},
 		{"id":"dbdb4f838105bcde","fromNode":"cfe6acc9f045ab62","fromSide":"right","toNode":"c1334c79d9c88d1c","toSide":"left"},
 		{"id":"8b705017662be51f","fromNode":"a0eb5e6e8733f945","fromSide":"bottom","toNode":"e1c55950afc5a4d2","toSide":"top"},
-		{"id":"304d1b41ef74ee2c","fromNode":"e1c55950afc5a4d2","fromSide":"bottom","toNode":"ae66b79995833cc6","toSide":"top"}
+		{"id":"304d1b41ef74ee2c","fromNode":"e1c55950afc5a4d2","fromSide":"bottom","toNode":"ae66b79995833cc6","toSide":"top"},
+		{"id":"b0245a0df8ce91bb","fromNode":"a51d085185770796","fromSide":"bottom","toNode":"5e43e4b95c583298","toSide":"top"},
+		{"id":"a698a0d71df49280","fromNode":"5e43e4b95c583298","fromSide":"bottom","toNode":"030df4b7de76d934","toSide":"top"},
+		{"id":"2d831787aac9725d","fromNode":"5e43e4b95c583298","fromSide":"left","toNode":"70579d086ad3efa1","toSide":"right"},
+		{"id":"f8d75964178e587f","fromNode":"1a619e70fd720f68","fromSide":"bottom","toNode":"70579d086ad3efa1","toSide":"top","color":"#72a1df"}
 	]
 }
