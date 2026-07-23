@@ -197,10 +197,8 @@
 		{"id":"aa22db78c55f0e4b","type":"text","text":"Tea Party con il **Vecchio**","x":620,"y":20280,"width":250,"height":60},
 		{"id":"52d9db9315628d98","type":"text","text":"Appare l'opzione \"Abbiamo già bevuto il tè\"","x":1169,"y":20290,"width":250,"height":60},
 		{"id":"c105e19f104601d4","type":"text","text":"Ralsei ha un peluche di sé stesso","x":-1180,"y":18440,"width":250,"height":60,"color":"#194331"},
-		{"id":"935a54300c3e638a","type":"text","text":"Susie porta il peluche di Ghiaccy nella sua stanza","x":-1040,"y":18560,"width":250,"height":60,"color":"#004201"},
 		{"id":"873ba0b3b34d732e","type":"text","text":"Susie porta un cestino nella sua stanza","x":-660,"y":18560,"width":250,"height":60,"color":"#004201"},
 		{"id":"c1862d02aa188f2d","type":"text","text":"Ultimo piano","x":-128,"y":9000,"width":250,"height":60},
-		{"id":"cf183d74da8bd781","type":"text","text":"Prendi il peluche di Ghiaccy","x":-1408,"y":9317,"width":250,"height":60},
 		{"id":"0f6277713f27bcca","type":"text","text":"Prendi la statua di Susie","x":-1408,"y":9495,"width":250,"height":60,"color":"#4d1d7c"},
 		{"id":"de4545ba0c80df62","type":"text","text":"Onionsan non si fa vedere","x":-820,"y":17567,"width":250,"height":60,"color":"#b4b54f"},
 		{"id":"e7ee37f6bfed2212","type":"text","text":"Stellovago si unisce alla Troppia di Elnina e Lanino","x":-1280,"y":13974,"width":250,"height":60,"color":"3"},
@@ -272,8 +270,11 @@
 		{"id":"e8c8a5b639e22895","type":"text","text":"Congeli Berdly usando Gelotomba","x":-2560,"y":8000,"width":250,"height":60,"color":"#5c0000"},
 		{"id":"d1cf9fc80449e46f","type":"text","text":"Compri il Manichino","x":50,"y":7333,"width":250,"height":60},
 		{"id":"7915203a4dff4355","type":"text","text":"Gli Organikk si lamentano per la sparizione dei loro antenati","x":-495,"y":22752,"width":235,"height":95},
-		{"id":"5d158c9893426cfe","x":-1521,"y":5412,"width":250,"height":60,"color":"#ff6bf3","type":"text","text":"Puoi ottenere la Giratorta"},
-		{"id":"9496a730cbd91108","x":-1669,"y":18294,"width":250,"height":60,"color":"#ff6bf3","type":"text","text":"Puoi ottenere la Giratorta"}
+		{"id":"5d158c9893426cfe","type":"text","text":"Puoi ottenere la Giratorta","x":-1521,"y":5412,"width":250,"height":60,"color":"#ff6bf3"},
+		{"id":"9496a730cbd91108","type":"text","text":"Puoi ottenere la Giratorta","x":-1669,"y":18294,"width":250,"height":60,"color":"#ff6bf3"},
+		{"id":"9330e00fa617daf3","x":-1980,"y":10330,"width":250,"height":50,"color":"5","type":"text","text":"In camera di Kris c'è il peluche di Ghiaccy"},
+		{"id":"cf183d74da8bd781","type":"text","text":"Prendi il peluche di Ghiaccy","x":-1880,"y":9354,"width":250,"height":60,"color":"5"},
+		{"id":"935a54300c3e638a","type":"text","text":"Susie porta il peluche di Ghiaccy nella sua stanza","x":-1055,"y":18640,"width":250,"height":60,"color":"#004201"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -653,6 +654,8 @@
 		{"id":"ac406188532b08c4","fromNode":"01e18475ce5c64a9","fromSide":"bottom","toNode":"5d158c9893426cfe","toSide":"top","color":"#ff6bf3"},
 		{"id":"31a92186a4895873","fromNode":"ee7e00b6ec213e27","fromSide":"left","toNode":"2fdbf9da56c08833","toSide":"top","color":"#303635"},
 		{"id":"0c0cdf7993de8423","fromNode":"2fdbf9da56c08833","fromSide":"left","toNode":"9496a730cbd91108","toSide":"right"},
-		{"id":"23413a602ad94db0","fromNode":"5d158c9893426cfe","fromSide":"bottom","toNode":"9496a730cbd91108","toSide":"top","color":"#ff6bf3"}
+		{"id":"23413a602ad94db0","fromNode":"5d158c9893426cfe","fromSide":"bottom","toNode":"9496a730cbd91108","toSide":"top","color":"#ff6bf3"},
+		{"id":"c72821e19553f4eb","fromNode":"cf183d74da8bd781","fromSide":"bottom","toNode":"9330e00fa617daf3","toSide":"top","color":"5"},
+		{"id":"6a9a26ca0e25ad04","fromNode":"9330e00fa617daf3","fromSide":"bottom","toNode":"935a54300c3e638a","toSide":"top","color":"5"}
 	]
 }
