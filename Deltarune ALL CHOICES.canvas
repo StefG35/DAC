@@ -272,9 +272,10 @@
 		{"id":"7915203a4dff4355","type":"text","text":"Gli Organikk si lamentano per la sparizione dei loro antenati","x":-495,"y":22752,"width":235,"height":95},
 		{"id":"5d158c9893426cfe","type":"text","text":"Puoi ottenere la Giratorta","x":-1521,"y":5412,"width":250,"height":60,"color":"#ff6bf3"},
 		{"id":"9496a730cbd91108","type":"text","text":"Puoi ottenere la Giratorta","x":-1669,"y":18294,"width":250,"height":60,"color":"#ff6bf3"},
-		{"id":"9330e00fa617daf3","x":-1980,"y":10330,"width":250,"height":50,"color":"5","type":"text","text":"In camera di Kris c'è il peluche di Ghiaccy"},
+		{"id":"9330e00fa617daf3","type":"text","text":"In camera di Kris c'è il peluche di Ghiaccy","x":-1980,"y":10330,"width":250,"height":50,"color":"5"},
 		{"id":"cf183d74da8bd781","type":"text","text":"Prendi il peluche di Ghiaccy","x":-1880,"y":9354,"width":250,"height":60,"color":"5"},
-		{"id":"935a54300c3e638a","type":"text","text":"Susie porta il peluche di Ghiaccy nella sua stanza","x":-1055,"y":18640,"width":250,"height":60,"color":"#004201"}
+		{"id":"935a54300c3e638a","type":"text","text":"Susie porta il peluche di Ghiaccy nella sua stanza","x":-1055,"y":18640,"width":250,"height":60,"color":"#004201"},
+		{"id":"b2773c2b6f10b4fc","x":-500,"y":11193,"width":250,"height":60,"color":"#5c0000","type":"text","text":"La sferetta blu dell'ospedale si è rotta"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -656,6 +657,7 @@
 		{"id":"0c0cdf7993de8423","fromNode":"2fdbf9da56c08833","fromSide":"left","toNode":"9496a730cbd91108","toSide":"right"},
 		{"id":"23413a602ad94db0","fromNode":"5d158c9893426cfe","fromSide":"bottom","toNode":"9496a730cbd91108","toSide":"top","color":"#ff6bf3"},
 		{"id":"c72821e19553f4eb","fromNode":"cf183d74da8bd781","fromSide":"bottom","toNode":"9330e00fa617daf3","toSide":"top","color":"5"},
-		{"id":"6a9a26ca0e25ad04","fromNode":"9330e00fa617daf3","fromSide":"bottom","toNode":"935a54300c3e638a","toSide":"top","color":"5"}
+		{"id":"6a9a26ca0e25ad04","fromNode":"9330e00fa617daf3","fromSide":"bottom","toNode":"935a54300c3e638a","toSide":"top","color":"5"},
+		{"id":"0fc6ac00ef5c0757","fromNode":"0e9ea08b9cd63534","fromSide":"left","toNode":"b2773c2b6f10b4fc","toSide":"right","color":"#5c0000"}
 	]
 }
