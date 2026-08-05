@@ -89,8 +89,6 @@
 		{"id":"41d32536db515996","type":"text","text":"Tutorial combattimenti con Ralsei","x":-410,"y":905,"width":250,"height":60},
 		{"id":"daef1faecd6508d0","type":"text","text":"Nessun tutorial","x":90,"y":905,"width":250,"height":60},
 		{"id":"df3585e8e409860d","type":"text","text":"Fai evadere la banda dal naso bagnato","x":81,"y":10747,"width":250,"height":60,"color":"6"},
-		{"id":"4b8387fe21d1505a","type":"text","text":"Vai al rifugio facendo scappare Draghy e Monster Teen","x":184,"y":10617,"width":267,"height":88},
-		{"id":"6e551c717eec30dc","type":"text","text":"Si nascondono a casa loro","x":541,"y":10704,"width":250,"height":60},
 		{"id":"6d068a45844c4437","type":"text","text":"Sans rimanda la cosa del fratello","x":1081,"y":10619,"width":250,"height":60,"color":"#214391"},
 		{"id":"0e9ea08b9cd63534","type":"text","text":"Esplorazione del mondo della luce","x":-271,"y":10520,"width":250,"height":60},
 		{"id":"31a4a8239e057d0f","type":"text","text":"Parli con Onionsan","x":-897,"y":10580,"width":250,"height":60,"color":"#b4b54f"},
@@ -213,7 +211,6 @@
 		{"id":"a156228ace3292c9","type":"text","text":"Scopri che la cioccolata che le hai dato è scaduta","x":127,"y":17417,"width":250,"height":60,"color":"#743b07"},
 		{"id":"60581c8f9ecc76cd","type":"text","text":"Kris e Susie giocano con gli adesivi al marshmallow","x":223,"y":17099,"width":250,"height":60,"color":"#fe90db"},
 		{"id":"f6f8ecc59c07c42f","type":"text","text":"Parli con Noelle scoprendo che il sindaco tiene tutte le cose di valore a casa","x":-87,"y":17580,"width":250,"height":80},
-		{"id":"284bb65a6f7f6724","type":"text","text":"RIP Tenna","x":-687,"y":16887,"width":250,"height":50},
 		{"id":"ca0ae8b548e03176","type":"text","text":"Interagendo con Noelle scopri che lei vuole parlarti in privato","x":-527,"y":17580,"width":253,"height":94,"color":"#5c0000"},
 		{"id":"18049dcf082b5106","type":"text","text":"# INIZIO CAPITOLO 4","x":-314,"y":16780,"width":275,"height":60},
 		{"id":"12bc9e341eeb9fb6","type":"text","text":"Durante la messa","x":-302,"y":16937,"width":250,"height":60},
@@ -316,9 +313,13 @@
 		{"id":"ca6caa2babad6f19","type":"text","text":"Cerchi di far affogare Kris e Noelle","x":-2877,"y":25854,"width":250,"height":60,"color":"#703030"},
 		{"id":"e0a3ade02e4e3d55","type":"text","text":"YURI TIME parte 2 interrotta da Noelle che sottolinea che non è cambiato nulla","x":-2877,"y":25960,"width":251,"height":110,"color":"#905050"},
 		{"id":"92d21ff0a58ccc42","type":"text","text":"Kris all'inizio non riesce (o non vuole) camminare senza l'aiuto di Susie","x":-2877,"y":26120,"width":251,"height":76,"color":"#908080"},
-		{"id":"eeaab3c84274ea61","x":-3200,"y":27720,"width":245,"height":112,"color":"#5c0000","type":"text","text":"# INSERIRE CAPITOLO 7 LATO B\n\n*See you next time baby!*"},
+		{"id":"eeaab3c84274ea61","type":"text","text":"# INSERIRE CAPITOLO 7 LATO B\n\n*See you next time baby!*","x":-3200,"y":27720,"width":245,"height":112,"color":"#5c0000"},
 		{"id":"9f9e241fa3eafd21","type":"text","text":"è tardo pomeriggio, Kris dorme durante tutto il festival","x":-3193,"y":25194,"width":235,"height":106,"color":"#5c0000"},
-		{"id":"500c2f4ef01b58d6","type":"text","text":"Susie e Kris vagano da soli dopo la conclusione del Festival","x":-3193,"y":25374,"width":235,"height":106,"color":"#5c0000"}
+		{"id":"500c2f4ef01b58d6","type":"text","text":"Susie e Kris vagano da soli dopo la conclusione del Festival","x":-3193,"y":25374,"width":235,"height":106,"color":"#5c0000"},
+		{"id":"f9c1440aa8264986","x":-721,"y":17223,"width":241,"height":97,"type":"text","text":"Monster Teen non ha gradito lo scherzo del giorno prima (Capitolo 2)"},
+		{"id":"4b8387fe21d1505a","type":"text","text":"Vai al rifugio facendo scappare Draghy e Monster Teen","x":319,"y":10654,"width":267,"height":88},
+		{"id":"6e551c717eec30dc","type":"text","text":"Si nascondono a casa loro","x":765,"y":10777,"width":250,"height":60},
+		{"id":"284bb65a6f7f6724","type":"text","text":"RIP Tenna","x":-1460,"y":17040,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
@@ -754,6 +755,8 @@
 		{"id":"efa96033f70d6a48","fromNode":"92d21ff0a58ccc42","fromSide":"bottom","toNode":"40866224a8ab1928","toSide":"top"},
 		{"id":"aa589c435a5f1ce9","fromNode":"578f65e1c93105e8","fromSide":"bottom","toNode":"e5c937d6b9d77b8a","toSide":"top"},
 		{"id":"ba4f39d96b60cd0d","fromNode":"e5c937d6b9d77b8a","fromSide":"bottom","toNode":"40866224a8ab1928","toSide":"top"},
-		{"id":"e0292902fe6fe628","fromNode":"a4863659d313422f","fromSide":"bottom","toNode":"eeaab3c84274ea61","toSide":"top","color":"#5c0000"}
+		{"id":"e0292902fe6fe628","fromNode":"a4863659d313422f","fromSide":"bottom","toNode":"eeaab3c84274ea61","toSide":"top","color":"#5c0000"},
+		{"id":"b86c334abf318e1d","fromNode":"a5d57b301fd3321b","fromSide":"left","toNode":"f9c1440aa8264986","toSide":"right"},
+		{"id":"37d23245b5bc07d2","fromNode":"4b8387fe21d1505a","fromSide":"bottom","toNode":"f9c1440aa8264986","toSide":"top","color":"2"}
 	]
 }
