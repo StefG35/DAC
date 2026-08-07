@@ -117,7 +117,7 @@
 		{"id":"a79eee5c76a4c81d","type":"text","text":"Ottieni l'uovo","x":757,"y":1390,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b908813c583eda48","type":"text","text":"Ottieni l'uovo","x":361,"y":7243,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"7fd1724c28c4913c","type":"text","text":"Metti l'uovo nel minimarket di Sans","x":831,"y":10520,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"8d50f7ef6f0210b3","type":"text","text":"Puoi interagire con il Manichino in vendita dopo aver ottenuto il DiscoPieno","x":-1480,"y":7429,"width":243,"height":82},
+		{"id":"8d50f7ef6f0210b3","type":"text","text":"Puoi interagire con il Manichino in vendita dopo aver ottenuto il DiscoPieno","x":-1480,"y":7429,"width":243,"height":111},
 		{"id":"5fe5ab5a2d3a9f86","type":"text","text":"Compri l'AnelloSpine","x":-2560,"y":7545,"width":250,"height":60},
 		{"id":"ee5c6332c8868099","type":"text","text":"Fai equipaggiare a Noelle l'AnelloSpine","x":-2560,"y":7734,"width":250,"height":60},
 		{"id":"1fcf1de85e3397c9","type":"text","text":"Ottieni il CongelAnello","x":-2557,"y":7124,"width":250,"height":60},
@@ -320,12 +320,12 @@
 		{"id":"877b8b2ba5d03bb3","type":"text","text":"# Oggetti per le fusioni\n\nCarta Ambrata\nFiocco bianco\nCatene di ferro\n","x":-4080,"y":-762,"width":340,"height":212},
 		{"id":"2783ea43159a4ced","type":"text","text":"Compri il VELENO da Spamton","x":860,"y":8252,"width":250,"height":60,"color":"#37602e"},
 		{"id":"4a50b1c81f3c0966","type":"text","text":"Scegli di abbracciare Ralsei durante la fotografia","x":660,"y":8699,"width":248,"height":80},
-		{"id":"1dc9fa01035eb094","type":"text","text":"# Oggetti per le fusioni\n\nCarta Ambrata\nPaninOscuro\nCarta Tensione\nFiocco Rosa\nBracciale fluo\nFioccoLogoro\nDoggaro\nVeleno S. *(anche se tecnicamente non serve per una fusione)*\n\n**AnelloSpine**\n","x":-4080,"y":4700,"width":320,"height":300},
+		{"id":"1dc9fa01035eb094","type":"text","text":"# Oggetti per le fusioni\n\nCarta Ambrata\nPaninOscuro\nCarta Tensione\nFiocco Rosa\nBracciale fluo\nFioccoLogoro\nDoggaro\nS. Tossico *(anche se tecnicamente non serve per una fusione)*\n\n**AnelloSpine**\n","x":-4080,"y":4700,"width":320,"height":300},
 		{"id":"3c8509348e48238d","type":"text","text":"# Oggetti per le fusioni\n\nFiocco Bianco\nFiocco Rosa\nSbobbaTV\nCenaTV\nCenaDeluxe\nCravatTenna\nDoggaro","x":-4080,"y":12600,"width":340,"height":240},
 		{"id":"99561ed31579f8e1","type":"text","text":"# Fusioni realizzabili\n## Le stesse del Capitolo 2\n\nCarta Argento\nPaninazzOscuro\nB. Borchie\nDoppio fiocco\nCravatTesa","x":-4080,"y":16760,"width":320,"height":280},
 		{"id":"44586d880b01d07d","type":"text","text":"# Oggetti per le fusioni\n\nScarlelisir\nScialSegno\nSacraFascia\nPotenFascia\nVedovAurea\nFioccoFemme\nDoggaro\n","x":-4080,"y":17080,"width":320,"height":240},
-		{"id":"5f250f71ab19be66","x":1135,"y":18328,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Sul banco di Berdly ci sono le uova che hai raccolto"},
-		{"id":"1f7b619efa74962c","x":839,"y":10665,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Tem indica quante uova hai raccolto"}
+		{"id":"5f250f71ab19be66","type":"text","text":"Sul banco di Berdly ci sono le uova che hai raccolto","x":1135,"y":18328,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"1f7b619efa74962c","type":"text","text":"Tem indica quante uova hai raccolto","x":839,"y":10665,"width":250,"height":60,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"b8bacf07da1553af","fromNode":"ba8a7fa39c84ce99","fromSide":"bottom","toNode":"620b4e932d20f4fb","toSide":"top"},
