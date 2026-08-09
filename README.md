@@ -1,4 +1,4 @@
-# Deltarune ALL CHOICES
+# Deltarune ALL CHOICES (ITA)
 Un Canvas di Obsidian per racchiudere tutte le scelte a medio/lungo termine di Deltarune
 
 ## REGOLE PRINCIPALI
